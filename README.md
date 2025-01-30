@@ -32,6 +32,8 @@ Este repositório tem como objetivo analisar e compreender as principais causas 
 
 **Link do Colab:** https://colab.research.google.com/drive/15duNjftg6TCPGM0S5FEpm2ymcwv32nfx?usp=sharing
 
+**Link do artigo:** https://docs.google.com/document/d/1Or26_59pWDlijOrqL4bUhZvtjn4kNdUs/edit
+
 # **Autores**
 * Primeiro autor: Eduardo Victor de Oliveira Gonçalves
 * Segundo autor: Camille Vitoria Sousa Andrade
