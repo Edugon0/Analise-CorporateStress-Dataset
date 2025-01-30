@@ -1,4 +1,4 @@
-## **Equilíbrio Trabalho-Vida: Fatores Determinantes do Estresse Corporativo**
+## **Equilíbrio Trabalho Vida: Fatores Determinantes do Estresse Corporativo**
 
 Este repositório tem como objetivo analisar e compreender as principais causas do estresse corporativo na Índia, um país com alta densidade populacional e desafios socioeconômicos específicos. A partir dessa análise, busca-se identificar os fatores que mais contribuem para o estresse no ambiente de trabalho, considerando diferentes setores e suas particularidades. Além disso, as informações obtidas serão documentadas e exploradas por meio de relatórios e visualizações de dados no Colab, permitindo uma abordagem mais detalhada e embasada sobre o tema.
 
