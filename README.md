@@ -30,4 +30,4 @@ Este repositório tem como objetivo analisar e compreender as principais causas 
   
 **Link do dataset:** https://www.kaggle.com/datasets/ashaychoudhary/corporate-stress-dataset-insights-into-workplace
 
-** Link do Colab:** https://colab.research.google.com/drive/15duNjftg6TCPGM0S5FEpm2ymcwv32nfx?usp=sharing
+**Link do Colab:** https://colab.research.google.com/drive/15duNjftg6TCPGM0S5FEpm2ymcwv32nfx?usp=sharing
